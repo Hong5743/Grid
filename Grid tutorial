@@ -1,0 +1,19 @@
+앞서 공부한 Flex와 Grid의 큰 차이점은
+
+Flex는 한 방향 레이아웃 시스템이고 (1차원)
+Grid는 두 방향(가로-세로) 레이아웃 시스템 (2차원)
+
+Grid 레이아웃을 만들기 위한 기본적인 HTML 구조는 다음과 같습니다.
+Flex와 마찬가지로, 컨테이너와 아이템이 있으면 됩니다.
+
+<div class="container">
+	<div class="item">A</div>
+	<div class="item">B</div>
+	<div class="item">C</div>
+	<div class="item">D</div>
+	<div class="item">E</div>
+	<div class="item">F</div>
+	<div class="item">G</div>
+	<div class="item">H</div>
+	<div class="item">I</div>
+</div>
